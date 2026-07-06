@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "Samadhan",
+    "slug": "samadhan-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#56001b",
+      "resizeMode": "contain"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {}
+  }
+}
